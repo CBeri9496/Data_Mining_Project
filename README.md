@@ -61,7 +61,7 @@
      15/03/2016	                  Coding and executing             SHIREESHA BEKKARI, SRICHAND ALAPATI,      Results of the executed code in WEKA 
                                   the code in the WEKA 	           CHANDANA BERI
 	
-     03/04/2016	                  Debugging	                   RAVI TEJA KOLLIPARA                       Testing completed
+     03/04/2016	                  Debugging                        RAVI TEJA KOLLIPARA                       Testing completed
 
-     10/04/2016	                  Prepare the project report	   CHANDANA BERI	                     Project report completed
+     10/04/2016	                  Prepare the project report	   CHANDANA BERI                             Project report completed
 
