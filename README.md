@@ -34,11 +34,11 @@
 
 # Team
 
-     Team Member                Roles and Skills	Contributions
-   CHANDANA BERI	        Project Handling	Total project status will be updated and submitted accordingly
-                                                        Will handle each and every phase 
-                                                        Gone through all the roles thoroughly
-   NAGESH REDDY THUM	        Data Analysis	        Data Analysis
+     Team Member                Roles and Skills	       Contributions
+   CHANDANA BERI.	        Project Handling.	       Total project status will be updated and submitted accordingly.
+                                                               Will handle each and every phase. 
+                                                               Gone through all the roles thoroughly.
+   NAGESH REDDY THUM	        Data Analysis	        Data Analysis.
    SHIREESHA BEKKARI	        Backend	                Working on WEKA
    RAVI TEJA KOLLIPARA	        Testing	                Debugging
    SRICHAND ALAPATI	        Frontend	        Coding
