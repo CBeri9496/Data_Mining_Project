@@ -17,14 +17,36 @@
 
 # Data
 
-+Since this data comes from a survey, there were many records that had “bad” data. 
++ Since this data comes from a survey, there were many records that had “bad” data. 
 + We ended up eliminating about 4% of the data due to missing, invalid or inconsistent occurrences. 
 + As a result, we went from 4,057 records down to 3,887 with 17.59% victims. 
 
 # Project Management
 
++ Our team consists of five members:
++   Chandana Beri 
++   Nagesh Reddy Thum 
++   Shireesha bekkari
++   Ravi Teja Kollipara  
++   Srichand Alapati 
+
 # Project Team, deliverables and checkpoints
 
 # Team
+
+     Team Member	        Roles and Skills	Contributions
+   CHANDANA BERI	        Project Handling	Total project status will be updated and submitted accordingly. 
+                                                        Will handle each and every phase. 
+                                                        Gone through all the roles thoroughly.
+   
+   NAGESH REDDY THUM	        Data Analysis	        Data Analysis
+   
+   SHIREESHA BEKKARI	        Backend	                Working on WEKA
+   
+   RAVI TEJA KOLLIPARA	        Testing	                Debugging
+   
+   SRICHAND ALAPATI	        Frontend	        Coding
+
+
 
 # Deliverable and Checkpoints
