@@ -35,6 +35,7 @@
 # Team
 
      Team Member                Roles and Skills	       Contributions
+ 
    
      CHANDANA BERI	        Project Handling	       Total project status will be updated and submitted accordingly
                                                                Will handle each and every phase
@@ -44,7 +45,7 @@
    
      SHIREESHA BEKKARI	        Backend	                       Working on WEKA
      
-     RAVI TEJA KOLLIPARA	Testing	                       Debugging
+     RAVI TEJA KOLLIPARA	 Testing	                       Debugging
    
      SRICHAND ALAPATI	        Frontend	               Coding
 
@@ -53,10 +54,14 @@
 # Deliverable and Checkpoints
 
 
-Checkpoint date	Expected Deliverable	Responsible team members(s)	Checkpoint results
-29/02/2016	Exploring more data	CHANDANA BERI, NAGESH THUM	Collected more data sets
-15/03/2016	Coding and executing the code in the WEKA 	SHIREESHA BEKKARI, SRICHAND ALAPATI,
-CHANDANA BERI	Results of the executed code in WEKA 
-03/04/2016	Debugging	RAVI TEJA KOLLIPARA	Testing completed
-10/04/2016	Prepare the project report	CHANDANA BERI	Project report completed
+Checkpoint date	          Expected Deliverable	           Responsible team members(s)	           Checkpoint results
+
+29/02/2016	          Exploring more data	           CHANDANA BERI, NAGESH THUM	           Collected more data sets
+
+15/03/2016	          Coding and executing           SHIREESHA BEKKARI, SRICHAND ALAPATI,      Results of the executed code in WEKA 
+                          the code in the WEKA 	         CHANDANA BERI
+	
+03/04/2016	          Debugging	                 RAVI TEJA KOLLIPARA                   	   Testing completed
+
+10/04/2016	          Prepare the project report	 CHANDANA BERI	                           Project report completed
 
