@@ -17,7 +17,7 @@
 
 # Data
 
-+ Since this data comes from a survey, there were many records that had “bad” data. 
++ Since this data comes from a survey, there were many records that had "bad" data. 
 + We ended up eliminating about 4% of the data due to missing, invalid or inconsistent occurrences. 
 + As a result, we went from 4,057 records down to 3,887 with 17.59% victims. 
 
