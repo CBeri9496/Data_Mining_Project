@@ -56,12 +56,12 @@
 
      Checkpoint date	          Expected Deliverable	           Responsible team members(s)	             Checkpoint results
 
-     29/02/2016	                  Exploring more data	           CHANDANA BERI, NAGESH THUM	             Collected more data sets
+     05/03/2016	                  Exploring more data	           CHANDANA BERI, NAGESH THUM	             Collected more data sets
 
-     15/03/2016	                  Coding and executing             SHIREESHA BEKKARI, SRICHAND ALAPATI,      Results of the executed code in WEKA 
+     20/03/2016	                  Coding and executing             SHIREESHA BEKKARI, SRICHAND ALAPATI,      Results of the executed code in WEKA 
                                   the code in the WEKA 	           CHANDANA BERI
 	
-     03/04/2016	                  Debugging                        RAVI TEJA KOLLIPARA                       Testing completed
+     10/04/2016	                  Debugging                        RAVI TEJA KOLLIPARA                       Testing completed
 
-     10/04/2016	                  Prepare the project report	   CHANDANA BERI                             Project report completed
+     25/04/2016	                  Prepare the project report	   CHANDANA BERI                             Project report completed
 
