@@ -32,7 +32,7 @@
 
 # Project Team, deliverables and checkpoints
 
-# Team
+# Team Members
 
      Team Member                Roles and Skills               Contributions
  
