@@ -61,8 +61,7 @@
 
      Checkpoint date	          Expected Deliverable	           Responsible team members(s)	             Checkpoint results
 
-     08/03/2016	               Update Project Report               CHANDANA BERI, NAGESH THUM                Collected more data                                      on Data, team, Project                                                        and Update Research                                      Management and formulate                                                      questions.
-                                   or update research questions.
+     08/03/2016                    Update Project Report               CHANDANA BERI, NAGESH THUM                Collected more data                                      on Data, team, Project                                                        and Update Research                                      Managemen and formulate questions.                                            or update research                                                                                                                     questions.
                                    
      20/03/2016                    Update Project code/Analysis        NAGESH REDDY THUM, SRICHAND ALAPATI       Initial code/analysis                                                                                                                  checked in to GITHUB                                                                                                                   and Update Answers for                                                                                                                  Research questions.
      
