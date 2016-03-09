@@ -59,7 +59,7 @@
 # Deliverable and Checkpoints
 
 
-     Checkpoint date	          Expected Deliverable	           Responsible team members(s)	             Checkpoint results
+     Checkpoint date               Expected Deliverable                Responsible team members(s)               Checkpoint results
 
      08/03/2016                    Update Project Report               CHANDANA BERI, NAGESH THUM                Collected more data
                                    on Data, team, Project                                                        and Update Research
