@@ -69,9 +69,12 @@
      20/03/2016                    Update Project code/Analysis        NAGESH REDDY THUM, SRICHAND ALAPATI       Initial code/analysis
                                                                                                                  checked in to GITHUB                                                                                                                   and Update Answers for
                                                                                                                  Research questions.
+                                                                                                                 
+     03/04/2016                    Coding and execute in the WEKA      SHIREESHA BEKKARI, SRICHAND ALAPATI,      Results of the
+                                                                       CHANDANA BERI                             executed code in WEKA
+                                                            
+     17/04/2016                    Debugging                           RAVI TEJA KOLLIPARA                       Testing completed
      
-     03/04/2016	               Coding and execute in the WEKA      SHIREESHA BEKKARI, SRICHAND ALAPATI,      Results of the                                                                               CHANDANA BERI                             executed code in WEKA  
-     17/04/2016	               Debugging                           RAVI TEJA KOLLIPARA                       Testing completed
-     
-     01/05/2016	               Prepare full project report         CHANDANA BERI                             Full Project report                                                                                                                    completed
+     01/05/2016                    Prepare full project report         CHANDANA BERI                             Full Project report
+                                                                                                                 completed
 
