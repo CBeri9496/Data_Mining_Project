@@ -4,22 +4,27 @@
 
 # Overview
 
-+ We acquired an Identity Theft Survey report from the Federal Trade Commission administered in September 2003 by Synovate Research Company.
-+ The data sample included 4,057 observations with 46 variables obtained from four waves of surveys. 
-+ Among 4,057 observations, about 700 experienced identity theft (17.25%). 
-+ Since 60% of our group members personally experienced identity theft before, we were interested in two main things: 
-+ 1. verify our assumptions of what type of individuals are more prone to be identity theft victims, 
-+ 2. verify the reported results of the FTC report. 
-+ Some of the questions we wanted to explore were: 
-+ Are men or women more prone to being victims of identity theft? 
-+ Are there differences in victimization depending on where you live: region and urban vs. rural setting? 
-+ Does internet use make a difference?
++ We acquired an Identity Theft Supplement (ITS) to the National Crime Victimization Survey (NCVS). 
++ From January to June 2012, the ITS collected data from persons who experienced one or more attempted or successful incidents of identity theft during the 12 months preceding their interview. 
++ Approximately 16.6 million persons or 7% of all U.S. residents age 16 or older, were victims of one or more incidents of identity theft on 2012. 
++ Direct and indirect losses from identity theft totaled $24.7 billion in 2012. 
++ Among identity theft victims, existing bank (37%) or credit card accounts (40%) were the most common types of misused information.
++ About 14% of identity theft victims experienced out-of-pocket losses of $1 or more. 
++ Of these victims, about half suffered losses of less than $100. 
++ Over half of identity theft victims who were able to resolve any associated problems did so in a day or less; among victims who had personal information used for fraudulent purposes, 29% spent a month or more resolving problems. 
++ About 36% of identity theft victims reported moderate or severe emotional distress as a result of the incident before, we were interested in two main things: 
++ 1. It focuses on the most recent incident experienced to describe victim characteristics and victim responses to identity theft. 
++ 2. In addition to suffering monetary losses, some identity theft victims experienced other financial and legal problems.
+
 
 # Data
 
-+ Since this data comes from a survey, there were many records that had "bad" data. 
-+ We ended up eliminating about 4% of the data due to missing, invalid or inconsistent occurrences. 
-+ As a result, we went from 4,057 records down to 3,887 with 17.59% victims. 
++ Since this data comes from a survey, there were many records that had “bad” data. 
++ We ended up eliminating some of the data due to missing, invalid or inconsistent occurrences. 
++ This report uses data that differ from previous BJS statistical collections on the topic of identity theft. 
++ A final sample size of 69,814 of the original NCVS-eligible respondents completed the ITS questionnaire, resulting in a response rate of 91.9%. 
++ All of the data will be obtained from the bjs and datasets maintained at http://www.bjs.gov/index.cfm?ty=tp&tid=42
+
 
 # Project Management
 
@@ -56,12 +61,15 @@
 
      Checkpoint date	          Expected Deliverable	           Responsible team members(s)	             Checkpoint results
 
-     05/03/2016	                  Exploring more data	           CHANDANA BERI, NAGESH THUM	             Collected more data sets
-
-     20/03/2016	                  Coding and executing             SHIREESHA BEKKARI, SRICHAND ALAPATI,      Results of the executed code in WEKA 
-                                  the code in the WEKA 	           CHANDANA BERI
-	
-     10/04/2016	                  Debugging                        RAVI TEJA KOLLIPARA                       Testing completed
-
-     25/04/2016	                  Prepare the project report	   CHANDANA BERI                             Project report completed
+     08/03/2016	                  Update Project Report            CHANDANA BERI, NAGESH THUM                Collected more data  and                                    on Data, team, Project                                                     Update Research questions.
+                                  Management and formulate 
+                                  or update research questions. 
+                                  
+     20/03/2016                   Update Project code/Analysis     NAGESH REDDY THUM, SRICHAND ALAPATI       Initial code / analysis                                                                                                                checked in to GITHUB and                                                                                                               Update Research questions.
+     
+     03/04/2016	                 Coding and execute in the WEKA    SHIREESHA BEKKARI, SRICHAND ALAPATI,      Results of the executed                                                                       CHANDANA BERI                            code in WEKA  
+                                           
+     17/04/2016	                  Debugging                        RAVI TEJA KOLLIPARA                       Testing completed
+     
+     01/05/2016	                  Prepare full project report	   CHANDANA BERI                             Full Project report                                                                                                                    completed
 
