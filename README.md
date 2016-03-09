@@ -65,8 +65,10 @@
                                    on Data, team, Project                                                        and Update Research
                                    Managemen and formulate questions.                                            or update research
                                                                                                                  questions.
-                                   
-     20/03/2016                    Update Project code/Analysis        NAGESH REDDY THUM, SRICHAND ALAPATI       Initial code/analysis                                                                                                                  checked in to GITHUB                                                                                                                   and Update Answers for                                                                                                                  Research questions.
+     
+     20/03/2016                    Update Project code/Analysis        NAGESH REDDY THUM, SRICHAND ALAPATI       Initial code/analysis
+                                                                                                                 checked in to GITHUB                                                                                                                   and Update Answers for
+                                                                                                                 Research questions.
      
      03/04/2016	               Coding and execute in the WEKA      SHIREESHA BEKKARI, SRICHAND ALAPATI,      Results of the                                                                               CHANDANA BERI                             executed code in WEKA  
      17/04/2016	               Debugging                           RAVI TEJA KOLLIPARA                       Testing completed
