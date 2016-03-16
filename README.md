@@ -71,8 +71,7 @@
                                    questions.   
      
      20/03/2016                    Update Project code/Analysis        NAGESH REDDY THUM, SRICHAND ALAPATI       Initial code/analysis
-                                                                                                                 checked in to GITHUB                                                                                                                   and Update Answers for
-                                                                                                                 Research questions.
+                                                                                                                 checked in to GITHUB and Update Answers for Research questions.
                                                                                                                  
      03/04/2016                    Coding and execute in the WEKA      SHIREESHA BEKKARI, SRICHAND ALAPATI,      Results of the
                                                                        CHANDANA BERI                             executed code in WEKA
