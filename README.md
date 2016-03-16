@@ -24,6 +24,10 @@
 + This report uses data that differ from previous BJS statistical collections on the topic of identity theft. 
 + A final sample size of 69,814 of the original NCVS-eligible respondents completed the ITS questionnaire, resulting in a response rate of 91.9%. 
 + All of the data will be obtained from the bjs and datasets maintained at http://www.bjs.gov/index.cfm?ty=tp&tid=42
++ All of the data will be in ARFF or CSV or Microsoft Excel format files. 
++ Those will make easy to do analysis on datasets. 
++ WEKA or WEKA with JAVA will be use to do the data analysis. 
++ There we will be going to use K-Mean Cluster and Classification algorithms for research questions. 
 
 
 # Project Management
@@ -46,7 +50,7 @@
                                                                Will handle each and every phase
                                                                Gone through all the roles thoroughly
   
-     NAGESH REDDY THUM          Data Analysis	               Data Analysis
+     NAGESH REDDY THUM          Data Analysis                  Data Analysis
    
      SHIREESHA BEKKARI          Backend	                       Working on WEKA
      
@@ -61,10 +65,10 @@
 
      Checkpoint date               Expected Deliverable                Responsible team members(s)               Checkpoint results
 
-     08/03/2016                    Update Project Report               CHANDANA BERI, NAGESH THUM                Collected more data
-                                   on Data, team, Project                                                        and Update Research
-                                   Managemen and formulate questions.                                            or update research
-                                                                                                                 questions.
+     15/03/2016                    Update Project Report               CHANDANA BERI, NAGESH THUM                Collected more data
+                                   on Data, team, Project                                                        and add Research
+                                   Managemen and formulate                                                       questions. 
+                                   questions.   
      
      20/03/2016                    Update Project code/Analysis        NAGESH REDDY THUM, SRICHAND ALAPATI       Initial code/analysis
                                                                                                                  checked in to GITHUB                                                                                                                   and Update Answers for
