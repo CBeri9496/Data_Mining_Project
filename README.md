@@ -29,6 +29,13 @@
 + WEKA or WEKA with JAVA will be use to do the data analysis. 
 + There we will be going to use K-Mean Cluster and Classification algorithms for research questions. 
 
+# Research Questions
++ Some of the questions we wanted to explore those are: 
++ 1. Are men or women more prone to being victims of identity theft? 
++ 2. Is the economic impact of identity theft is comprised of direct and indirect financial loss? 
++ 3. Does victims suffered with any emotional distress experience while resolving the problem?
+
+
 
 # Project Management
 
