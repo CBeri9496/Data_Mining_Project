@@ -7,15 +7,13 @@ def process_input_file(filename, output_size=10, variables=["VS010"], random=Fal
 
         for line_number, line in enumerate(fi):
             line_data = line.split()
+
             if line_number == 0: # process the header -> get the index # of the variables
                 for v in variables:
                     variables_indices.append(line_data.index(v))
-                    print "{}\t".format(v),
-                print
-            elif line_number < output_size+1:
-                for v in variables_indices:
-                    print "{}\t".format(line_data[v]),
-                print
+
+            if line_number < output_size+1:
+                print "\t".join([line_data[v] for v in variables_indices])
 
 
 def main():
