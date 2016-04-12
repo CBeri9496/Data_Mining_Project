@@ -75,10 +75,15 @@
      15/02/2016                    Update Project Report               CHANDANA BERI, NAGESH THUM                Collected more data
                                    on Data, team, Project                                                        and add Research
                                    Managemen and formulate                                                       questions. 
-                                   questions.   
+                                   questions.
+                                   
      15/03/2016                    Add Research Questions              CHANDANA BERI                             Added more DATA and                                                                                                                   Reasearch questions
-     11/04/2016                    Update Project Code and Data        NAGESH REDDY THUM, SRICHAND ALAPATI       Initial code/analysis                                   Analysis                                                                      checked in to GITHUB                                                                                                                  andCollectedData for                                                                                                                  Reasearch Questions      18/04/2016                    Execute Program and get output      SHIREESHA BEKKARI, SRICHAND ALAPATI,      Testing and Get Project
+     
+     11/04/2016                    Update Project Code and Data        NAGESH REDDY THUM, SRICHAND ALAPATI       Initial code/analysis                                   Analysis                                                                      checked in to GITHUB                                                                                                                  andCollectedData for                                                                                                                  Reasearch Questions.
+     
+     18/04/2016                    Execute Program and get output      SHIREESHA BEKKARI, SRICHAND ALAPATI,      Testing and Get Project
                                    and Debugging                       RAVI TEJA KOLLIPARA                       Output
+                                   
      25/04/2016                    Prepare full project report         CHANDANA BERI                             Full Project report
                                                                                                                  completed
 
