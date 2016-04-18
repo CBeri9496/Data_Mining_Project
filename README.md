@@ -110,13 +110,13 @@
                                                                Will handle each and every phase
                                                                Gone through all the roles thoroughly
   
-     NAGESH REDDY THUM          Data Analysis                  Data Analysis
+     NAGESH REDDY THUM          Data Analysis, Coding          Data Analysis and Coding
    
      SHIREESHA BEKKARI          Backend	                       Working on WEKA
      
      RAVI TEJA KOLLIPARA        Testing	                       Debugging
    
-     SRICHAND ALAPATI	        Frontend                       Coding
+     SRICHAND ALAPATI	       Data Analysis, Coding          Data Analysis and Coding
 
 
 
