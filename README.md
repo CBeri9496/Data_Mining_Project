@@ -24,6 +24,7 @@
 + This report uses data that differ from previous BJS statistical collections on the topic of identity theft. 
 + A final sample size of 69,814 of the original NCVS-eligible respondents completed the ITS questionnaire, resulting in a response rate of 91.9%. 
 + All of the data obtained from the bjs and datasets maintained at http://www.bjs.gov/index.cfm?ty=tp&tid=42
++ Dataset(s): National Crime Victimization Survey: Identity Theft Supplement, 2012
 + All of the data is in CSV format files. 
 + Those will make easy to do analysis on datasets. 
 + WEKA or WEKA with JAVA will be use to do the data analysis. 
@@ -37,7 +38,56 @@
 
 # Code and Application
 + Added Code in Seperate Code Folder
-+ 
++ Here we use python program to get datasets.
+# Code:
++ import sys
++ import random
+
++ SKIP_INTERVAL = 25
+
++ def process_input_file(filename, variables, sep='\t', output_size=10, random_lines=False):
++    with open(filename) as fi:
++        variables_indices = []
++       # intialize the lines to skip
++        if random_lines:
++            skip_count = random.randint(1, SKIP_INTERVAL)
++        else:
++            skip_count = 0
++       # process the header -> get the index # of the variables and store them (in order)
++        header = fi.next().split()
++        for v in variables:
++            variables_indices.append(header.index(v))
++       # process the rest of the file
++        line_count = 0
++        for line in fi:
++            if skip_count:
++                skip_count -= 1
++            else:
++                if line_count < output_size+1:
++                    line_data = line.split()
++                    print sep.join([line_data[v] for v in variables_indices])
++                    line_count += 1
++                if random_lines: # re-initialize
++                        skip_count = random.randint(1, SKIP_INTERVAL)
++                else:
++                    break # we need not process more of the file than necessary
++ def main():
++    fname = "D:\\DataSets\\ICPSR_34735\\DS0001\\34735-0001-Data.tsv"
++ # Principal_Person_Sex   
++  process_input_file(fname, ["V2036"], output_size=250, random_lines=True, sep=',')
++ #EconomicImpact_DirectLoss
++    process_input_file(fname, ["V4317_1","V4318_1","V4319_1","V4320_1","V4360_1","V4361_1","V4362_1","V4363_1"], output_size=250, + + + random_lines=True, sep=',')
++ #  EconomicImpact_IndirectLoss
++   process_input_file(fname, ["VS298","VS299","VS300","VS301","VS358"], output_size=250, random_lines=True, sep=',')
++ #  Financial_Problems
++   process_input_file(fname, ["VS102","VS103","VS302","VS303","VS304","VS359","VS360","VS363","VS010","VS330","VS331","V4482B_1"], + + output_size=250, random_lines=True, sep=',')
++ #  Legal_Problems
++  process_input_file(fname, ["VS315","VS316","VS353","VS330","VS331"], output_size=250, random_lines=True, sep=',')
++ # Most_Recent  
++  process_input_file(fname, ["VS090","VS091","VS092","VS093","VS094"], output_size=250, random_lines=True, sep=',')
++ if __name__ == "__main__":
++    main()
++ With the help of the above program we found all datasets which will help to get answers for the Research questions.
 
 
 # Project Management
@@ -80,9 +130,9 @@
                                    Managemen and formulate                                                       questions. 
                                    questions.
                                    
-     15/03/2016                    Add Research Questions              CHANDANA BERI                             Added more DATA and                                                                                                                   Reasearch questions
+     15/03/2016                    Add Research Questions              CHANDANA BERI                             Added more DATA and                                                                                                              Reasearch questions
      
-     11/04/2016                    Update Project Code and Data        NAGESH REDDY THUM, SRICHAND ALAPATI       Initial code/analysis                                   Analysis                                                                      checked in to GITHUB                                                                                                                  andCollectedData for                                                                                                                  Reasearch Questions.
+     11/04/2016                    Update Project Code and Data        NAGESH REDDY THUM, SRICHAND ALAPATI       Initial code/analysis                                   Analysis                                                                  checked in to GITHUB                                                                                                             and Collected Data                                                                                                               for Reasearch                                                                                                                    Questions.
      
      18/04/2016                    Execute Program and get output      SHIREESHA BEKKARI, SRICHAND ALAPATI,      Testing and Get Project
                                    and Debugging                       RAVI TEJA KOLLIPARA                       Output
