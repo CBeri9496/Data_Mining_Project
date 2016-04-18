@@ -23,8 +23,8 @@
 + We ended up eliminating some of the data due to missing, invalid or inconsistent occurrences. 
 + This report uses data that differ from previous BJS statistical collections on the topic of identity theft. 
 + A final sample size of 69,814 of the original NCVS-eligible respondents completed the ITS questionnaire, resulting in a response rate of 91.9%. 
-+ All of the data will be obtained from the bjs and datasets maintained at http://www.bjs.gov/index.cfm?ty=tp&tid=42
-+ All of the data will be in ARFF or CSV or Microsoft Excel format files. 
++ All of the data obtained from the bjs and datasets maintained at http://www.bjs.gov/index.cfm?ty=tp&tid=42
++ All of the data is in CSV format files. 
 + Those will make easy to do analysis on datasets. 
 + WEKA or WEKA with JAVA will be use to do the data analysis. 
 + There we will be going to use K-Mean Cluster and Classification algorithms for research questions. 
