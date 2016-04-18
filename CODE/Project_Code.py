@@ -36,7 +36,7 @@ def process_input_file(filename, variables, sep='\t', output_size=10, random_lin
 
 
 def main():
-    fname = "C:\\Users\\Keith\\Downloads\\26362-0001-Data.tsv"
+    fname = "C:\\Users\\Nagesh\\Desktop\\Datasets\\ICPSR_34735\\DS0001\\34735-0001-Data.tsv"
     process_input_file(fname, ["V3079","VS002","VS012","VS013","VS014","VS015","VS017","VS019"], output_size=250, random_lines=True, sep=',')
 
 if __name__ == "__main__":
