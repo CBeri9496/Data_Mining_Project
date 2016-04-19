@@ -134,9 +134,6 @@
      
      11/04/2016                    Update Project Code and Data        NAGESH REDDY THUM, SRICHAND ALAPATI       Initial code/analysis                                   Analysis                                                                  checked in to GITHUB                                                                                                             and Collected Data                                                                                                               for Reasearch                                                                                                                    Questions.
      
-     18/04/2016                    Execute Program and get output      SHIREESHA BEKKARI, SRICHAND ALAPATI,      Testing and Get Project
-                                   and Debugging                       RAVI TEJA KOLLIPARA                       Output
+     18/04/2016                    Update Datasets                     NAGESH REDDY THUM, SRICHAND ALAPATI       Updated Datasets
                                    
-     25/04/2016                    Prepare full project report         CHANDANA BERI                             Full Project report
-                                                                                                                 completed
-
+     25/04/2016                    Update Research answers             RAVI TEJA KOLLIPARA, SHIREESHA BEKKARI    Updated Research                                                                                                                 Answers
