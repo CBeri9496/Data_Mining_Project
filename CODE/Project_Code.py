@@ -38,17 +38,17 @@ def process_input_file(filename, variables, sep='\t', output_size=10, random_lin
 def main():
     fname = "C:\\Users\\Nagesh\\Desktop\\Datasets\\ICPSR_34735\\DS0001\\34735-0001-Data.tsv"
     #Principal_Person_Sex   
-    process_input_file(fname, ["V2036"], output_size=250, random_lines=True, sep=',')
+    process_input_file(fname, ["V2036"], output_size=25000, random_lines=False, sep=',')
     #EconomicImpact_DirectLoss
-    process_input_file(fname, ["V4317_1","V4318_1","V4319_1","V4320_1","V4360_1","V4361_1","V4362_1","V4363_1"], output_size=250, random_lines=True, sep=',')
+    process_input_file(fname, ["V4317_1","V4318_1","V4319_1","V4320_1","V4360_1","V4361_1","V4362_1","V4363_1"], output_size=25000, random_lines=False, sep=',')
     #  EconomicImpact_IndirectLoss
-    process_input_file(fname, ["VS298","VS299","VS300","VS301","VS358"], output_size=250, random_lines=True, sep=',')
+    process_input_file(fname, ["VS298","VS299","VS300","VS301","VS358"], output_size=25000, random_lines=False, sep=',')
     #  Financial_Problems
-    process_input_file(fname, ["VS102","VS103","VS302","VS303","VS304","VS359","VS360","VS363","VS010","VS330","VS331","V4482B_1"], output_size=250, random_lines=True, sep=',')
+    process_input_file(fname, ["VS102","VS103","VS302","VS303","VS304","VS359","VS360","VS363","VS010","VS330","VS331","V4482B_1"], output_size=25000, random_lines=False, sep=',')
     #  Legal_Problems
-    process_input_file(fname, ["VS315","VS316","VS353","VS330","VS331"], output_size=250, random_lines=True, sep=',')
+    process_input_file(fname, ["VS315","VS316","VS353","VS354","VS330","VS331"], output_size=25000, random_lines=False, sep=',')
     # Most_Recent  
-    process_input_file(fname, ["VS090","VS091","VS092","VS093","VS094"], output_size=250, random_lines=True, sep=',')
+    process_input_file(fname, ["VS090","VS091","VS092","VS093","VS094"], output_size=25000, random_lines=False, sep=',')
    
 
 if __name__ == "__main__":
