@@ -53,7 +53,7 @@
 + 9 (M) Out of universe
 
 + Answer :: 83% is Female
-            17% is male
++           17% is male
 
 + 2. EconomicImpact_DirectLoss and Indirect Loss
 + Here, The attributes describes the following data::
@@ -323,6 +323,8 @@ Miscellaneous
 + 99       Don't know
 + 09       (M) Out of Scope
 + Answer:: 94% of the people out of scope(9) costs did  incur from the incident or incidents of identity theft that occurred more than a year ago
+
++ 3. Emotional Distress
 
 
 
