@@ -315,9 +315,9 @@ Value                   Label
 
 Answer: This attribute has information about costs incurred with prior identity theft. 24801 members were out of scope. 9 people were incurred with $0-$50 amount. 5 members were incurred with $1001-$4999 amount. 91 people were incurred with $101-$500 amount. 95 members were under residue list.
 
-+ 3. Does victims suffered with any emotional distress experience while resolving the problem?
+# 3. Does victims suffered with any emotional distress experience while resolving the problem?
 
-+ Emotional_Distress:
+# Emotional_Distress:
 
 V4526H5_1: CONDTN 6 MO+ DIFFICULT: LEARN, REMEMBER, CONCENTRATE 
 
