@@ -248,7 +248,7 @@ Value          Label
 Answer: This attribute has 3rd item taken on person. After doing analysis on this attribute we found it is also same like V4362_1. All people are under blank original entry was 01 (cash), 02 (purse), or 03 (wallet).
 
 # EconomicImpact_InDirectLoss:
-# In this task we have used 5 attributes and 25001 person’s data. We used Simple K-Mean Clustering analysis to analyze the data. We used 12 cluster points. With this clustering analysis we found some answers. Those are mentioned in every attribute’s answers section. 
+ In this task we have used 5 attributes and 25001 person’s data. We used Simple K-Mean Clustering analysis to analyze the data. We used 12 cluster points. With this clustering analysis we found some answers. Those are mentioned in every attribute’s answers section. 
 + Here, Every Attribute describes the following data: 
 
 VS298 = Approximate to total dollar amount of what someone obtained during (the most recent) incident.
